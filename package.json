@@ -25,6 +25,7 @@
     "react-dom": "^15.1.0"
   },
   "devDependencies": {
+    "atom-mocha-test-runner": "^1.2.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-es2017": "^6.24.1",
